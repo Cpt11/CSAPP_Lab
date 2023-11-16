@@ -1,2 +1,0 @@
-# CSAPP_Lab
-CSAPP_Lab
